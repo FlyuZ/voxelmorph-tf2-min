@@ -6,3 +6,4 @@
 
 安装tensorflow2，修改路径后，应该可以直接跑起来并看到结果
 
+提供jupyter与python两个运行文件
